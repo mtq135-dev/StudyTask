@@ -1,5 +1,18 @@
+# Generated Maven and packaging output
 /target/
 /dist/
 /dist-before-*/
+
+# Packaged application and release downloads
+/app/
+/runtime/
+/StudyTask.exe
+/StudyTask.zip
+
+# Local development tools and logs
 /.tools/
+/logs/
 *.log
+
+# Temporary Microsoft Word files
+~$*.docx
